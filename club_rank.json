@@ -1,0 +1,25 @@
+{
+  "Version": 2,
+  "Penn Labs": {
+    "Average Rank": 1.0,
+    "People by Rank": {
+      "1": [
+        "Jennifer Song",
+        "Andrew Huang"
+      ]
+    },
+    "Version": 2
+  },
+  "Penn Coffee Clubs": {
+    "Version": 0,
+    "Average Rank": 2.5,
+    "People by Rank": {
+      "3": [
+        "Jennifer Song"
+      ],
+      "2": [
+        "Andrew Huang"
+      ]
+    }
+  }
+}

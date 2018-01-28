@@ -1,0 +1,36 @@
+{
+  "1": {
+    "name": "Jennifer",
+    "last": "Song",
+    "PennId": "20870823",
+    "Graduation Year": "2020",
+    "School": "SEAS",
+    "Password": 402970997200011459706,
+    "Ranking": [
+      "Penn Labs",
+      "Penn Coffee Clubs",
+      "Penn Tech Review",
+      "Totally Not a Frat",
+      "Dining Philosophers",
+      "Hack4Impact"
+    ],
+    "ID": 1
+  },
+  "2": {
+    "name": "Andrew",
+    "last": "Huang",
+    "PennId": "20870823",
+    "Graduation Year": "2020",
+    "School": "SEAS",
+    "Password": 306741161616083605552898249628113,
+    "Ranking": [
+      "Penn Labs",
+      "Penn Coffee Clubs",
+      "Penn Tech Review",
+      "Totally Not a Frat",
+      "Dining Philosophers",
+      "Hack4Impact"
+    ],
+    "ID": 2
+  }
+}
